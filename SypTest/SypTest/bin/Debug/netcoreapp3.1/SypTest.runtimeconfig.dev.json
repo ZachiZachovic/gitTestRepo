@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\komat\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\komat\\.nuget\\packages"
+    ]
+  }
+}

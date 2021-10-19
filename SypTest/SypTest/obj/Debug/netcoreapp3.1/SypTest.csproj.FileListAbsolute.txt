@@ -1,0 +1,13 @@
+C:\Schule\2021_22\Syp\SypTest\SypTest\bin\Debug\netcoreapp3.1\SypTest.exe
+C:\Schule\2021_22\Syp\SypTest\SypTest\bin\Debug\netcoreapp3.1\SypTest.deps.json
+C:\Schule\2021_22\Syp\SypTest\SypTest\bin\Debug\netcoreapp3.1\SypTest.runtimeconfig.json
+C:\Schule\2021_22\Syp\SypTest\SypTest\bin\Debug\netcoreapp3.1\SypTest.runtimeconfig.dev.json
+C:\Schule\2021_22\Syp\SypTest\SypTest\bin\Debug\netcoreapp3.1\SypTest.dll
+C:\Schule\2021_22\Syp\SypTest\SypTest\bin\Debug\netcoreapp3.1\SypTest.pdb
+C:\Schule\2021_22\Syp\SypTest\SypTest\obj\Debug\netcoreapp3.1\SypTest.csprojAssemblyReference.cache
+C:\Schule\2021_22\Syp\SypTest\SypTest\obj\Debug\netcoreapp3.1\SypTest.AssemblyInfoInputs.cache
+C:\Schule\2021_22\Syp\SypTest\SypTest\obj\Debug\netcoreapp3.1\SypTest.AssemblyInfo.cs
+C:\Schule\2021_22\Syp\SypTest\SypTest\obj\Debug\netcoreapp3.1\SypTest.csproj.CoreCompileInputs.cache
+C:\Schule\2021_22\Syp\SypTest\SypTest\obj\Debug\netcoreapp3.1\SypTest.dll
+C:\Schule\2021_22\Syp\SypTest\SypTest\obj\Debug\netcoreapp3.1\SypTest.pdb
+C:\Schule\2021_22\Syp\SypTest\SypTest\obj\Debug\netcoreapp3.1\SypTest.genruntimeconfig.cache
